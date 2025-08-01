@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/logo.png" width="150" alt="Docker Placeholder" />
+  <img src="./assets/logo.png" width="200" alt="Docker Placeholder" />
 </p>
 <p align="center">
   <strong>Minimal Docker container that runs indefinitely with minimal resources.</strong>
