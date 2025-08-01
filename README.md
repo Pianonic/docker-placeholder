@@ -48,10 +48,4 @@ docker run -d --name docker-placeholder docker-placeholder
 
 ---
 
-##  License
-
-MIT License - See [LICENSE](LICENSE) for details.
-
----
-
 <p align="center">Made with ❤️ by PianoNic</p>
